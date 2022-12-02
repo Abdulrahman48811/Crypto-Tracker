@@ -30,7 +30,7 @@ const Halal = () => {
         <div className="left-f">
           <h4>
             <b>
-              Investing in crypto
+              Investing In Crypto
               <bdo className="Word-CLR"> Halal or Haram?</bdo>
             </b>
           </h4>
