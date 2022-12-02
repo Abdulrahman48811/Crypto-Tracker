@@ -45,6 +45,9 @@ a {
   color: white;
 }
 
+.headsearch {
+  font-size: 11px;
+}
 //input
 
 input {
@@ -413,13 +416,13 @@ input {
   padding: 40px 0;
   text-align: center;
 
-  img {
+  // img {
 
-  }
+  // }
 
-  h2 {
+  // h2 {
 
-  }
+  // }
 }
 
 .show-graph {
@@ -514,6 +517,16 @@ input {
 
 .react-tweet-card__container {
   border:  2px solid grey;
-  
- 
+
+
+}
+
+
+@media screen and (max-width: 740px) {
+  .news h1{
+    font-size: 19px;
+  }
+  .news h1 span {
+    font-size: 19px;
+  }
 }

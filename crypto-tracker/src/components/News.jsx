@@ -21,7 +21,7 @@ const News = () => {
 
   return (
     <div className="news">
-      <h1>Twitter</h1>
+      <h1 className="whatiscrypto">"Social Media On<span>Crypto Currency</span>"</h1>
       <Container>
         <TweetCard
         engagement={{
