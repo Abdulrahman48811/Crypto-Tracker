@@ -581,4 +581,15 @@ input {
   .news h1 span {
     font-size: 19px;
   }
+
+}
+
+
+@media screen and (max-width: 740px) {
+  .news h1{
+    font-size: 19px;
+  }
+  .news h1 span {
+    font-size: 19px;
+  }
 }
